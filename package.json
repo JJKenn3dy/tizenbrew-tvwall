@@ -1,0 +1,11 @@
+{
+  "name": "tizenbrew-tvwall",
+  "appName": "Заставка",
+  "version": "1.0.0",
+  "description": "Живые обои с часами на телике. Сама страница живёт на домашнем сервере, модуль только открывает её.",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.31.122:8140/",
+  "main": "inject.js",
+  "keys": [],
+  "license": "MIT"
+}
